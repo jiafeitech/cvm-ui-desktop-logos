@@ -3,7 +3,7 @@ Summary:	Cvm UI Desktop related icons and pictures
 Version:	37.0.0
 Release:	1
 URL:		https://github.com/jiafeitech/cvm-ui-desktop-logos
-Source0:	https://github.com/jiafeitech/cvm-ui-desktop-logos-files/archive/refs/heads/main.zip
+Source0:	cvm-ui-desktop-logos-37.0.0.tar.gz
 Source1:        cvm-ui-desktop_darkbackground.svg
 License:	Licensed only for approved usage, see COPYING for details.
 Provides:	redhat-logos = %{version}-%{release}
