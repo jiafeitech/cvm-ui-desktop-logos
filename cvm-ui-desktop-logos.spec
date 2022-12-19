@@ -2,8 +2,8 @@ Name:		cvm-ui-desktop-logos
 Summary:	Cvm UI Desktop related icons and pictures
 Version:	37.0.0
 Release:	1
-URL:		https://pagure.io/fedora-logos
-Source0:	cvm-ui-desktop-logos-%{version}.tar.gz
+URL:		https://github.com/jiafeitech/cvm-ui-desktop-logos
+Source0:	https://github.com/jiafeitech/cvm-ui-desktop-logos-files/archive/refs/heads/main.zip
 Source1:        cvm-ui-desktop_darkbackground.svg
 License:	Licensed only for approved usage, see COPYING for details.
 Provides:	redhat-logos = %{version}-%{release}
